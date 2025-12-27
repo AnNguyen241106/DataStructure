@@ -61,5 +61,5 @@ A Binary Search Tree that maintains a "Balance Factor" to ensure the height rema
 
 ## How to Run
 1. Clone the repository.
-2. Compile the source files (e.g., `g++ main.cpp -o ds_demo`).
-3. Run the executable `./ds_demo`.
+2. Compile the source files (e.g., `g++ -g main.cpp -o main`).
+3. Run the executable `./main`.
